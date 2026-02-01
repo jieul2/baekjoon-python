@@ -1,0 +1,1 @@
+print(abs(2024 - int(input())))
